@@ -1,0 +1,49 @@
+.details {
+    text-align: center;
+    font-size: large;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.inline {
+    margin-bottom: 15px;
+}
+
+.main {
+    display: flex;
+    width: 100% !important;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+
+.i-b {
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.relative {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fitem{
+    justify-content: center;
+}
+
+.card{
+    margin-top: 4vh;
+    width: 45vw;
+    justify-content: center;
+    align-items: center;
+    height: 42vh;
+}
+
+.max-w-lg{
+    margin: 8 !important;
+}

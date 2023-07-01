@@ -1,0 +1,16 @@
+/* these shiftTo we are using for the shifting of colored border which is
+below the signUp and Login */
+.shiftToLeft {
+    transform: translateX(-100%);
+  }
+  .shiftToNeutral {
+    transform: translateX(0%);
+  }
+  
+  .shiftToNeutralForm {
+    transform: translateX(0%) translateY(-100%);
+  }
+  
+  .shiftToRight {
+    transform: translateX(100%);
+  }

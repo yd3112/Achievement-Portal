@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Ayush",
+      "email": "person1@gmail.com",
+      "roll": "U20EE072",
+      "branch": "Electrical",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Sneharsh",
+      "email": "person2@gmail.com",
+      "roll": "U20CS109",
+      "branch": "Computer Science",
+      "description": "Consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Rohan",
+      "email": "person3@gmail.com",
+      "roll": "U21CS012",
+      "branch": "Computer Science",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Himanshu",
+      "email": "person4@gmail.com",
+      "roll": "U21EC014",
+      "branch": "Electronics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Yash",
+      "email": "person5@gmail.com",
+      "roll": "U21CS018",
+      "branch": "Computer Science",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Moon",
+      "email": "person6@gmail.com",
+      "roll": "U21CS038",
+      "branch": "Computer Science",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    },
+    {
+      "name": "Shubham",
+      "email": "person6@gmail.com",
+      "roll": "U21CS0103",
+      "branch": "Computer Science",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+    }
+]
